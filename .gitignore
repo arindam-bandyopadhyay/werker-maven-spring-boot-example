@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries/*
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+

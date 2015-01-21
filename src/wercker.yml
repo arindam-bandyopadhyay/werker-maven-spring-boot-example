@@ -1,0 +1,5 @@
+box: mihkels/java8-oracle
+build:
+  steps:
+    - xenoterracide/maven:
+        goals: test
