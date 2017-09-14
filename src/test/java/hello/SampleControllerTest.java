@@ -18,4 +18,9 @@ public class SampleControllerTest {
 		assertEquals("Hello fff fWorld!", controller.home());
 
 	}
+	@Test
+	public void testHome1() throws Exception {
+		assertEquals("Hello World!", controller.home());
+
+	}
 }
