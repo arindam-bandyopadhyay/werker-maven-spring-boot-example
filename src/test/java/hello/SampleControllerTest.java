@@ -15,7 +15,7 @@ public class SampleControllerTest {
 
 	@Test
 	public void testHome() throws Exception {
-		assertEquals("Hello World!", controller.home());
+		assertEquals("Hello fff fWorld!", controller.home());
 
 	}
 }
